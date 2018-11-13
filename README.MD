@@ -27,10 +27,10 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
     * Content 
     * Footer
 * List File complate 
-    -[X] java script
-    -[X] Css stylesheet
-    -[X] html Pages
-    -[X] Responsive Media query 
+    - [X] java script
+    - [X] Css stylesheet
+    - [X] html Pages
+    - [X] Responsive Media query 
 
 
 # [Requirements & Companents](#Requirements) 	
