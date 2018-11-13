@@ -16,7 +16,7 @@
     * support browser html5
     * using chrome developer tools
 
-# [requirements](#requirements) <h1> Requirements & Companents
+# [Requirements](#requirements) <h1> Requirements & Companents
 * [Nodejs](https://nodejs.org/)
 * [gulpjs](https://gulpjs.com/)
 * [sass](https://sass-lang.com/)
