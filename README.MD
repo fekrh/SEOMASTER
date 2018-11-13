@@ -64,15 +64,20 @@ function(e,n){var o=e();e.fn.dropdownHover=function(t){return"ontouchstart"in do
 * [Gulpjs](https://gulpjs.com/)
 * [Sass](https://sass-lang.com/)
 * [Browserify](http://browserify.org/)
+* [uglify](https://www.npmjs.com/package/uglify-js)
+* [cssnano](https://cssnano.co/)
+* [autoprefixer](https://autoprefixer.github.io/)
+
 
 # [install](#install)
     setup and install Workflow
     open Command Line Tools Mac OS X & past Line by line 
 > npm install --save-dev gulp 
-
 > npm install --save-dev sass
-
 > npm install --save-dev Browserify
+> npm install --save-dev gulp-cssnano
+> npm install --save-dev gulp-uglify
+> npm install --save-dev gulp-autoprefixer
 
 # <h1> Credits
 * [Yasser Hamed](https://github.com/fekrh)
