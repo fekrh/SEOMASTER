@@ -29,7 +29,7 @@
     * make site responsive using bootstrap
     * support browser html5
 
-# [Requirements & Companents](#Requirements) 	
+# [Requirements & Companents](#Requirements & Companents) 	
 * [Nodejs](https://nodejs.org/)
 * [gulpjs](https://gulpjs.com/)
 * [sass](https://sass-lang.com/)
