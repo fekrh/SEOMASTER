@@ -1,0 +1,79 @@
+/*---------------------------------------------------------------
+        * I SEO MASTER SERVICE DESIGN & SEO
+        * Author: Yasser Hamed
+        * Author URL: https://et3lam.com
+        * Description: Optimize Web Content & Choose Your first Design 
+        * tag: Clean and Smplie Design Dark & Light Color 
+        * Version: 1.2.0
+-------------------------------------------------------------------*/
+body{ background: #2d3544; font-family: 'lato' , 'sans-serif';}
+a , h1 {color: #ff4444;}
+li{list-style: none;}
+.img-site{ width: 200px; height: 200px;} .img-p-m{margin-top: 40px;}
+::selection{color:whitesmoke; background-color: #ff4444;}
+.container{content: "";}
+/*------------------------------
+ - site-header background
+------------------------------*/
+.site-header-page{background: url(../img/TOP-HEADER.png); background-position: center bottom; background-repeat: no-repeat; background-size: cover;}
+.site-header-page {min-height: 80vh;}
+.site-header-page .nav-link{font-weight: 200; color: whitesmoke;}
+/*------------------------------
+ - site-header Navbar-Brand
+------------------------------*/
+.site-nav-top{padding-top: 0; display: block;}
+.navbar-brand img{width: 200px;}
+.site-header-page .nav-link:hover{color: whitesmoke;}
+.site-header-page .nav-link .hvr-shutter-out-vertical{background: #ff4444;}
+/*------------------------------
+        - Button
+------------------------------*/
+.btn-icon__inner{color: #ff4444;}
+.site-contact-us{color: whitesmoke;font-weight: 200;font-size: 14px;}
+.line-border {border-left: solid 3px #ff4444;width: 55%;padding-left: 10px;}
+.left-p-site-icons {position: relative; color: #ff4444; margin-right: 12px;}
+/*------------------------------
+    - Socail-media
+------------------------------*/
+.container.socail-meida-network{
+    margin-top: 22px; margin-bottom: 20px;
+}
+.socail-media-link{padding: 10px;}
+.socail-media-link:hover{background: #f74444; color: #fff;}
+/*------------------------------
+    - site-header Navbar-Brand
+------------------------------*/
+.SEO-SITE{margin-top: 50px; padding-bottom: 20px;}
+
+.keep-on-touch{float: right; color: #fff; background-color: #ff4444; border-color: #f74444; border-radius: 5px;}
+.keep-on-touch:hover{color:#ff4444;background-color: transparent; border-color:#ff4444; border-radius: 5px;}
+.keep-on-touch:focus{box-shadow:0 0 0 .2rem rgba(255,68,68);}
+.VPS-Web{float: right; color: #ff4444; font-size:13px; background-color:transparent; height: 45px; border-color: #f74444; border-radius: 5px;}
+.VPS-Web:hover{color:#fff;background-color: transparent; border-color:#ff4FF444; border-radius: 5px;}
+
+/*------------------------------
+    - site text title
+-----------------------------*/
+.title-page-p{font-weight: 100; line-height: 1.4em;  font-size: 1.6rem;}
+.main-content-site{background: url(../img/SERVER-BG.png); background-position: center bottom; background-repeat: no-repeat; background-size: cover;}
+.main-content-site{min-height: 70vh;}
+/*-----------------------------
+    - Virtual Private Servers
+------------------------------*/
+.list-item {color: white; font-weight: 100;font-size: 20px;}
+.list-item-text{ font-weight: 100; font-size: 35px; float: left;}
+.list-item .fa-check {color: #f74444; padding-right:10px;}
+#Content-site-main{padding-top: 50px;}
+.carousel-item{
+    height: 50%;
+}
+.carousel-indicators li{
+    height: 5px;
+    border-radius: 4px;
+    background: #f74444;
+}
+.carousel-indicators .active{
+    background:transparent;
+    border: solid 1px #f74444;
+    height: 5px;
+}

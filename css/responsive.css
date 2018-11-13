@@ -1,0 +1,122 @@
+@-ms-viewport {
+    width: device-width;
+  }
+
+/*---------------------------------
+    - meida qurey Device Width 
+----------------------------------*/
+@media (max-width: 360PX) and (max-width: 480px){
+  .list-item li {font-size: 12px;}
+}
+
+  @media (max-width: 767px) {
+   .title-seo{font-size: 30px;} .img-site{width: 150px; height: 150px;} .title-page-p{font-size: 20px;} .SEO-SITE{margin-top: 95px; padding-bottom: 22px;} .hvr-sweep-to-bottom:active, .hvr-sweep-to-bottom:focus, .hvr-sweep-to-bottom:hover{padding-left: 12px;} 
+   .site-header-page {min-height: 80vh;}
+  }
+  @media (max-width: 767px) {
+    
+  }
+  @media (max-width: 767px) {
+
+  }
+  @media (max-width: 767px) {
+   
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .title-seo{font-size: 30px;} .img-site{width: 150px; height: 150px;} .img-site{width: 150px; height: 150px;} .title-page-p{font-size: 20px;} .SEO-SITE{margin-top: 95px; padding-bottom: 32px;} p{margin-bottom: 0;}
+    
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+   
+  }
+  @media (min-width: 992px) and (max-width: 1199px) {
+   
+  }
+  @media (min-width: 992px) and (max-width: 1199px) {
+    
+  }
+  @media (min-width: 992px) and (max-width: 1199px) {
+   
+  }
+  @media (min-width: 992px) and (max-width: 1199px) {
+   
+  }
+  @media (min-width: 1200px) {
+   
+  }
+  @media (min-width: 1200px) {
+  
+  }
+  @media (min-width: 1200px) {
+   
+  }
+  @media (min-width: 1200px) {
+   
+  }
+  @media (max-width: 767px) {
+    
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+   
+  }
+  @media (min-width: 992px) and (max-width: 1199px) {
+   
+  }
+  @media (min-width: 1200px) {
+
+  }
+
+
+  /*-----------------------------------
+    - Media print style 
+  ------------------------------------*/
+  @media print {
+    .visible-print {
+      display: block !important;
+    }
+    table.visible-print {
+      display: table !important;
+    }
+    tr.visible-print {
+      display: table-row !important;
+    }
+    th.visible-print,
+    td.visible-print {
+      display: table-cell !important;
+    }
+  }
+  .visible-print-block {
+    display: none !important;
+  }
+  @media print {
+    .visible-print-block {
+      display: block !important;
+    }
+  }
+  .visible-print-inline {
+    display: none !important;
+  }
+  @media print {
+    .visible-print-inline {
+      display: inline !important;
+    }
+  }
+  .visible-print-inline-block {
+    display: none !important;
+  }
+  @media print {
+    .visible-print-inline-block {
+      display: inline-block !important;
+    }
+  }
+  @media print {
+    .hidden-print {
+      display: none !important;
+    }
+  }
