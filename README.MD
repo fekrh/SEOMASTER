@@ -51,3 +51,8 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
 * [Yasser Hamed](https://github.com/fekrh)
 # <h1> License
 The MIT License (MIT) - see [LICENSE.md](https://github.com/fatih/color/blob/master/LICENSE.md) for more details
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
