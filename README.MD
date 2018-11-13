@@ -24,7 +24,7 @@
 * [browserify](http://browserify.org/)
 
 # [install](#install)
-    (#install)open Command Line Tools Mac OS X
+    open Command Line Tools Mac OS X
 > npm install --save-dev gulp 
 
 > npm install --save-dev sass
