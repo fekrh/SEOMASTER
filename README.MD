@@ -41,7 +41,7 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
 function nightMode(){if(localStorage.getItem('stylesheet')){localStorage.clear();document.getElementById('night-css').setAttribute('href','');}else{localStorage.setItem('stylesheet','/css/night.css');document.getElementById('night-css').setAttribute('href',localStorage.getItem('stylesheet'));}}
 document.getElementById('night-mode').addEventListener('click',nightMode)
 if(document.getElementById('filter')){document.getElementById('filter').addEventListener('keyup',filterArticles)}
-    ```
+```
 
 # [Requirements & Companents](#Requirements) 	
 * [Nodejs](https://nodejs.org/)
