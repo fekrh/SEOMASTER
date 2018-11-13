@@ -1,5 +1,5 @@
-![SEO MASTER Logo](/img/logo.png)
-Format: ![Alt Text](url)
+![SEO MASTER Logo](https://github.com/fekrh/SEOMASTER/blob/master/img/LOGO.png)
+Format: ![Logo Fromats](https://github.com/fekrh/SEOMASTER/blob/master/img/LOGO.png)
 
 # Optimize WEB SITE SEO TOOLS <h1> Virtual Private Servers
 ## Web Site Opimize Tools Google Sped <h2>
