@@ -2,20 +2,20 @@
 ## Web Site Opimize Tools Google Sped <h2>
  Developing an SEO-friendly website. At a fundamental level, an SEO-friendly site is one that allows a search engine to explore and read pages across the site. Ensuring a search engine can easily crawl and understand your<p>     
 
-* Main Work 
+* Main Work  :egypt:	 
     * Navbar-Top 
     * Main Header
     * Carousel 
     * Panel 
     * Server
     * Google Tools 
-###### Main To Do list <h6>
+###### Main To Do list <h6> :egypt:	
 * Responsive
     * make site responsive using bootstrap
     * support browser html5
     * using chrome developer tools
 
-# [Requirements](#requirements) <h1> Requirements & Companents
+# [Requirements](#requirements) <h1> Requirements & Companents :egypt:	
 * [Nodejs](https://nodejs.org/)
 * [gulpjs](https://gulpjs.com/)
 * [sass](https://sass-lang.com/)
