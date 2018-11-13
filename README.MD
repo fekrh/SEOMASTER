@@ -44,6 +44,7 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
 * [Browserify](http://browserify.org/)
 
 # [install](#install)
+    setup and install Workflow
     open Command Line Tools Mac OS X & past Line by line 
 > npm install --save-dev gulp 
 
