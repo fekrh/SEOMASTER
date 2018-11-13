@@ -3,7 +3,6 @@
 if(isset($_POST['email'])) {
  
      
- 
     // ADD YOUR EMAIL WHERE YOU WANT TO RECIEVE THE MESSAGES
  
     $email_to = "your.email@mail.com";
