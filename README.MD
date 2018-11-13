@@ -15,11 +15,10 @@
     * Css stylesheet
     * html Pages
     * Responsive Media query 
-# To Do List <h1>  html css java 	
-* Responsive
+# To Do List <h1>  html css java  responsive	
+* list
     * make site responsive using bootstrap
     * support browser html5
-    * using chrome developer tools
 
 # [Requirements](#Requirements) <h1> Requirements & Companents 	
 * [Nodejs](https://nodejs.org/)
