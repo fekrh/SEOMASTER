@@ -24,5 +24,5 @@
 * [browserify](http://browserify.org/)
 
 # install 
-< npm install --save-dev gulp 
-< npm install --save-dev sass
+> npm install --save-dev gulp 
+> npm install --save-dev sass
