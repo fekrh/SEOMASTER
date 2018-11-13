@@ -17,14 +17,14 @@
     * support browser html5
     * using chrome developer tools
 
-# [Requirements](#requirements) <h1> Requirements & Companents :egypt:	
+# [Requirements](#requirements) <h1> Requirements & Companents 	
 * [Nodejs](https://nodejs.org/)
 * [gulpjs](https://gulpjs.com/)
 * [sass](https://sass-lang.com/)
 * [browserify](http://browserify.org/)
 
-# install 
-    open Command Line Tools Mac OS X
+# [install](#install)
+    (#install)open Command Line Tools Mac OS X
 > npm install --save-dev gulp 
 
 > npm install --save-dev sass
