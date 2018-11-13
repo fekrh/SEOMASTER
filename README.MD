@@ -42,6 +42,14 @@ function nightMode(){if(localStorage.getItem('stylesheet')){localStorage.clear()
 document.getElementById('night-mode').addEventListener('click',nightMode)
 if(document.getElementById('filter')){document.getElementById('filter').addEventListener('keyup',filterArticles)}
 ```
+```stylesheet
+    body{ background: #2d3544; font-family: 'lato' , 'sans-serif';}
+a , h1 {color: #ff4444;}
+li{list-style: none;}
+.img-site{ width: 200px; height: 200px;} .img-p-m{margin-top: 40px;}
+::selection{color:whitesmoke; background-color: #ff4444;}
+.container{content: "";}
+```
 
 # [Requirements & Companents](#Requirements) 	
 * [Nodejs](https://nodejs.org/)
