@@ -15,7 +15,12 @@
 
 # <h1> GTmetrix Test Web Site Tools
 GTmetrix is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers ...
-* Main Work 	 
+# <h1> To-Do-List   	
+* Make Site Responsive
+    * make site responsive using bootstrap
+    * support browser html5
+
+* To-Do Main Work 
     * Navbar-Top 
     * Main Header
     * Carousel 
@@ -26,10 +31,7 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
     * Css stylesheet
     * html Pages
     * Responsive Media query 
-# <h1> To-Do-List   	
-* Make Site Responsive
-    * make site responsive using bootstrap
-    * support browser html5
+
 
 # [Requirements & Companents](#Requirements) 	
 * [Nodejs](https://nodejs.org/)
