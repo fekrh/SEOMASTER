@@ -276,8 +276,7 @@ body{background-color:#f1f1f2}
 .box13 .social li a{display:block;width:35px;height:35px;background:#f7f7b9;border-radius:50%;font-size:17px;color:#1b1462;line-height:35px;margin-right:5px;transition:all .4s ease-in-out 0s}
 .box14 .icon li,.box14 .post{display:inline-block}
 .box13 .social li a:hover{color:#f7f7b9;background:#39b54a}
-@media only screen and (max-width:990px){.box13{margin-bottom:30px}
-}
+@media only screen and (max-width:990px){.box13{margin-bottom:30px}}
 
 /*********************** Demo - 14 *******************/
 .box14{position:relative}
