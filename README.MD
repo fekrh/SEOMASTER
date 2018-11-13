@@ -15,7 +15,7 @@
     * Css stylesheet
     * html Pages
     * Responsive Media query 
-###### Main To Do list <h6> 	
+# To Do List <h1> 	
 * Responsive
     * make site responsive using bootstrap
     * support browser html5
