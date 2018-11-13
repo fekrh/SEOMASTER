@@ -46,6 +46,6 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
 > npm install --save-dev Browserify
 
 # <h1> Credits
-* Yasser Hamed
+* [Yasser Hamed](https://github.com/fekrh)
 # <h1> License
 The MIT License (MIT) - see [LICENSE.md](https://github.com/fatih/color/blob/master/LICENSE.md) for more details
