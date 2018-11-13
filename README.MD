@@ -35,7 +35,7 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
     - [ ] Google  PageSpeed Insights
     - [ ] GTmetrix | Website Speed and Performance Optimization
 
-# <h1> java script Useing
+# <h1> Custom Style Load Dark Light 
 ```javascript
 //load night mode style
 function nightMode(){if(localStorage.getItem('stylesheet')){localStorage.clear();document.getElementById('night-css').setAttribute('href','');}else{localStorage.setItem('stylesheet','/css/night.css');document.getElementById('night-css').setAttribute('href',localStorage.getItem('stylesheet'));}}
