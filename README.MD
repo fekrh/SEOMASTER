@@ -31,6 +31,10 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
     - [X] Css stylesheet
     - [X] html Pages
     - [X] Responsive Media query 
+    - [ ] Testing Files
+    - [ ] Google  PageSpeed Insights
+    - [ ] GTmetrix | Website Speed and Performance Optimization
+
 
 
 # [Requirements & Companents](#Requirements) 	
