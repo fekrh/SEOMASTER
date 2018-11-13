@@ -15,8 +15,8 @@
     * Css stylesheet
     * html Pages
     * Responsive Media query 
-# <h1> To Do List   HTML CSS JAVA  RESPONSIVE	
-* list
+# <h1> To-Do-List   	
+* Make Site Responsive
     * make site responsive using bootstrap
     * support browser html5
 
