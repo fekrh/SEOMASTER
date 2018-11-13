@@ -18,4 +18,7 @@
 
 # requirements <h1>
 [Nodejs](https://nodejs.org/)
+[gulpjs](https://gulpjs.com/)
+[sass](https://sass-lang.com/)
+[browserify](http://browserify.org/)
 
