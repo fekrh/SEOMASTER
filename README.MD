@@ -42,6 +42,7 @@ function nightMode(){if(localStorage.getItem('stylesheet')){localStorage.clear()
 document.getElementById('night-mode').addEventListener('click',nightMode)
 if(document.getElementById('filter')){document.getElementById('filter').addEventListener('keyup',filterArticles)}
 ```
+# Some Code from Stylesheet
 ```stylesheet
     body{ background: #2d3544; font-family: 'lato' , 'sans-serif';}
 a , h1 {color: #ff4444;}
