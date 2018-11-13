@@ -39,9 +39,9 @@ GTmetrix is a free tool that analyzes your page's speed performance. Using PageS
 
 # [Requirements & Companents](#Requirements) 	
 * [Nodejs](https://nodejs.org/)
-* [gulpjs](https://gulpjs.com/)
-* [sass](https://sass-lang.com/)
-* [browserify](http://browserify.org/)
+* [Gulpjs](https://gulpjs.com/)
+* [Sass](https://sass-lang.com/)
+* [Browserify](http://browserify.org/)
 
 # [install](#install)
     open Command Line Tools Mac OS X
