@@ -8,9 +8,13 @@
     * Navbar-Top 
     * Main Header
     * Carousel 
-    * Panel 
-    * Server
-    * Google Tools 
+    * Content 
+    * Footer
+* List File complate 
+    * java script
+    * Css stylesheet
+    * html Pages
+    * Responsive Media query 
 ###### Main To Do list <h6> 	
 * Responsive
     * make site responsive using bootstrap
