@@ -14,5 +14,8 @@
 * Responsive
     * make site responsive using bootstrap
     * support browser html5
-    
+    * using chrome developer tools
+
+# requirements <h1>
+[Nodejs](https://nodejs.org/)
 
