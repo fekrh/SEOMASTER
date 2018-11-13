@@ -15,8 +15,6 @@
 
 # <h1> GTmetrix Test Web Site Tools
 GTmetrix is a free tool that analyzes your page's speed performance. Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers ...
-<span style="color: green"> Some green text </span>
-
 * Main Work 	 
     * Navbar-Top 
     * Main Header
