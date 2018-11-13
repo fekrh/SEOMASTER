@@ -73,10 +73,15 @@ function(e,n){var o=e();e.fn.dropdownHover=function(t){return"ontouchstart"in do
     setup and install Workflow
     open Command Line Tools Mac OS X & past Line by line 
 > npm install --save-dev gulp 
+
 > npm install --save-dev sass
+
 > npm install --save-dev Browserify
+
 > npm install --save-dev gulp-cssnano
+
 > npm install --save-dev gulp-uglify
+
 > npm install --save-dev gulp-autoprefixer
 
 # <h1> Credits
