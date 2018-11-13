@@ -11,4 +11,8 @@
     * Server
     * Google Tools 
 ###### Main To Do list <h6>
+* Responsive
+    * make site responsive using bootstrap
+    * support browser html5
+    
 
