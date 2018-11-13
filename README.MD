@@ -24,6 +24,7 @@
 * [browserify](http://browserify.org/)
 
 # install 
+    open Command Line Tools 
 > npm install --save-dev gulp 
 
 > npm install --save-dev sass
